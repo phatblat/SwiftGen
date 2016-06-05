@@ -9,3 +9,5 @@ Carthage/
 .DS_Store
 .apitoken
 
+# Compiled .storyboardc scenes inside playground
+*.nib
